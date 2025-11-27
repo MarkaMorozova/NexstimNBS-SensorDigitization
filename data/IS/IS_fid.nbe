@@ -1,0 +1,26 @@
+
+
+Digitization Exam Created: 2011/05/02 04:13:15
+Digitization Exam Researcher: 
+Digitization Exam Description: 
+
+Used coordinate system: MRI coordinate system
+
+Landmarks
+	x	y	z	Landmark Type
+
+	143.2	117.0	208.1	MRI landmark: Left ear
+	86.9	145.6	223.5	MRI landmark: Nose/Nasion
+	34.4	117.5	207.3	MRI landmark: Right ear
+
+	138.6	94.7	201.4	Scalp landmark: Left ear
+	82.9	127.5	220.0	Scalp landmark: Nose/Nasion
+	28.6	97.8	199.6	Scalp landmark: Right ear
+
+Digitization points
+	x	y	z	Order		Projection
+
+
+	167.8	92.9	136.9	Point 1.1  	Original    
+	81.4	132.0	223.0	Point 1.2  	Original    
+	11.1	72.5	129.7	Point 1.3  	Original    
